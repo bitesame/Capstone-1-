@@ -1,0 +1,58 @@
+# ============================================================
+# Unity 기본 .gitignore
+# ============================================================
+
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+Recordings/
+Assets/AssetStoreTools*
+Assets/Plugins/Editor/JetBrains*
+.vs/
+.vscode/
+.idea/
+*.userprefs
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userosscache
+*.sln.docstates
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+*.opendb.meta
+*.bak
+*.orig
+
+# OS 관련 파일
+.DS_Store
+Thumbs.db
+
+# 빌드 산출물
+*.apk
+*.aab
+*.unitypackage
+*.dylib
+*.so
+*.dll
+*.exe
+
+# ============================================================
+# ❗ 특정 파일은 예외 처리 (즉, Git에 포함)
+# ============================================================
+!libburst-llvm-18.dylib
