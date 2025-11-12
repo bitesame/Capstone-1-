@@ -1,0 +1,36 @@
+{
+   "languages": [
+    {
+      "country": "KR",
+      "strings": [
+        { "key": "save", "value": "저장" },
+        { "key": "title", "value": "게임 규칙 설명" },
+        { "key": "start", "value": "시작" },
+        { "key": "one", "value": "1. 조작키 : 버튼을 통해서 왼쪽, 오른쪽으로 갈 수 있습니다."},
+        { "key": "two", "value": "2. 탈출을 위해 아이템을 수집하세요."}
+
+      ]
+    },
+    {
+      "country": "US",
+      "strings": [
+        { "key": "save", "value": "Save" },
+        { "key": "title", "value": "Game Rules" },
+        { "key": "start", "value": "Start" },
+        { "key": "one", "value": "1. Controls: Use the buttons to move left and right."},
+        { "key": "two", "value": "2. Collect items to escape."}
+      ]
+    },
+    {
+      "country": "JA",
+      "strings": [
+        { "key": "save", "value": "保存" },
+        { "key": "title", "value": "ゲームのルール" },
+        { "key": "start", "value": "開始" },
+         { "key": "one", "value": "1. 操作キー：ボタンを使って左右に移動できます。"},
+         { "key": "two", "value": "2. 脱出するためにアイテムを集めましょう。"}
+      ]
+    }
+
+  ]
+}
